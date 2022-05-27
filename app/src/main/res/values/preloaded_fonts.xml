@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/gothic_a1_black</item>
+        <item>@font/gothic_a1_bold</item>
+        <item>@font/gothic_a1_extrabold</item>
+        <item>@font/gothic_a1_medium</item>
+        <item>@font/playfair_display_sc</item>
+        <item>@font/playfair_display_sc_black</item>
+        <item>@font/playfair_display_sc_black_italic</item>
+    </array>
+</resources>
